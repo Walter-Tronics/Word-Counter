@@ -16,6 +16,7 @@ h2{
     padding: 20px 15px;
     width: 90%;
     max-width: 300px;
+    border-radius: 8px;
     box-shadow: rgba(0, 0, 0, 0.56)0px 22px 70px 4px;
 }
 #box textarea{
